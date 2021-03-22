@@ -3,14 +3,14 @@ body {
     background-repeat: none;
     background-size: cover;
     background-position: center;
-    color: #cecdce73;
+    color: #1a191ae0;
     text-align: center;
     font-size: 16px;
-    font-family: 'Bodoni', sans-serif;
+    font-family: 'Bodoni', serif;
   }
 
   h1{
-    font-family: 'Bodoni', sans-serif;
+    font-family: 'Bodoni', serif;
     font-size: 58px;
   }
 
